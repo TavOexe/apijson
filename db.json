@@ -1,0 +1,67 @@
+{
+  "offers": [
+    {
+      "id": 1,
+      "tile": "ABC",
+      "company": "Company 1",
+      "description": "lorem",
+      "price": 1000,
+      "finish_Date": "Hoy"
+    },
+    {
+      "id": 2,
+      "tile": "BBB",
+      "company": "Company 2",
+      "description": "lorem",
+      "price": 2000,
+      "finish_Date": "25 agosto"
+    },
+    {
+      "id": 3,
+      "tile": "CCC",
+      "company": "Company 3",
+      "description": "lorem",
+      "price": 3000,
+      "finish_Date": "Ayer"
+    },
+    {
+      "id": 1238,
+      "tile": "DDD",
+      "company": "Company 4",
+      "description": "lorem",
+      "price": 4000,
+      "finish_Date": "Mañana"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "Kitchen Project",
+      "company": "Company 1",
+      "description": "lorem",
+      "price": 1000,
+      "finish_Date": "12/10/21"
+    },
+    {
+      "id": 2,
+      "name": "Living Room Project ",
+      "company": "Company 1",
+      "description": "lorem",
+      "price": 3000,
+      "finish_Date": "01/06/22"
+    },
+    {
+      "id": 3,
+      "name": "Backyard Project",
+      "company": "Company 1",
+      "description": "lorem",
+      "price": 2500,
+      "finish_Date": "11/30/21"
+    }
+  ],
+  "budget": [],
+  "post": [
+
+
+  ]
+}
