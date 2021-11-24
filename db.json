@@ -59,7 +59,29 @@
       "finish_Date": "11/30/21"
     }
   ],
-  "budget": [],
+  "budget": [
+    {
+      "id": 3,
+      "name": "Backyard Project",
+      "quantity": "Company 1",
+      "price": 2500,
+      "finish_Date": "11/30/21"
+    }
+    {
+      "id": 1,
+      "name": "Backyard Project",
+      "quantity": "Company 1",
+      "price": 2500,
+      "finish_Date": "11/30/21"
+    }
+    {
+      "id": 2,
+      "name": "Backyard Project",
+      "quantity": "Company 1",
+      "price": 2500,
+      "finish_Date": "11/30/21"
+    }
+  ],
   "post": [
 
 
